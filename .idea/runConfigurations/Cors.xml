@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Cors" type="CompoundRunConfigurationType">
+    <toRun name="CorsApp" type="SpringBootApplicationConfigurationType" />
+    <toRun name="start cors" type="js.build_tools.npm" />
+    <method v="2" />
+  </configuration>
+</component>
