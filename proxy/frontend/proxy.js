@@ -3,7 +3,7 @@ const express = require('express');
 const proxy = require('http-proxy-middleware');
 const history = require('connect-history-api-fallback');
 
-const bundler = new Bundler('src/index.html');
+const bundler = new Bundler('index.html');
 const app = express();
 
 app.use(history());

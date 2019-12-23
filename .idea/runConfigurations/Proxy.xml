@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Proxy" type="CompoundRunConfigurationType">
+    <toRun name="ProxyApp" type="SpringBootApplicationConfigurationType" />
+    <toRun name="start proxy" type="js.build_tools.npm" />
+    <method v="2" />
+  </configuration>
+</component>
