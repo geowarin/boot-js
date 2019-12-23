@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Reverse proxy" type="CompoundRunConfigurationType">
+    <toRun name="nginx reverse-proxy" type="docker-deploy" />
+    <toRun name="start reverse-proxy" type="js.build_tools.npm" />
+    <toRun name="ReverseProxyApp" type="SpringBootApplicationConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>

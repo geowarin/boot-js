@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="ProxyApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-    <module name="proxy.main" />
+    <module name="boot-js.proxy.main" />
     <extension name="coverage">
       <pattern>
         <option name="PATTERN" value="com.geowarin.*" />

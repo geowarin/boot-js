@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="EmbeddedApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-    <module name="embedded.main" />
+    <module name="boot-js.embedded.main" />
     <extension name="coverage">
       <pattern>
         <option name="PATTERN" value="com.geowarin.*" />
