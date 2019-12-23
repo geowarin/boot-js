@@ -9,7 +9,7 @@ for a good developer experience with hot module reload (HMR).
 You will find intellij [compound run configurations](https://geowarin.com/share-intellij-run-configurations-with-git/) 
 for each example, as most solutions use at least 2 processes.
 
-You can read the full article [on my blog](https://geowarin.com/javascript-framework-with-spring-backend).
+You can read the full article [on my blog](https://geowarin.com/run-your-frontend-alongside-spring-boot/).
 
 ## Cors
 
