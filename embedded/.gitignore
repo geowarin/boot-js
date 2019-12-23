@@ -34,3 +34,4 @@ out/
 frontend/node_modules/
 src/main/resources/static/
 frontend/.cache/
+frontend/dist/

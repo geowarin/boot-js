@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel watch index.html -d ../src/main/resources/static"
+    "start": "parcel watch index.html",
+    "build": "parcel build index.html -d ../src/main/resources/static"
   },
   "keywords": [],
   "author": "",
