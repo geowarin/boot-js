@@ -7,7 +7,7 @@ The topic we are discussing here is how to run the javascript bundler (parcel) a
 for a good developer experience with hot module reload (HMR).
 
 You will find intellij [compound run configurations](https://geowarin.com/share-intellij-run-configurations-with-git/) 
-for each example as most solutions use at least 2 processes.
+for each example, as most solutions use at least 2 processes.
 
 You can read the full article [on my blog](https://geowarin.com/javascript-framework-with-spring-backend).
 
@@ -73,7 +73,7 @@ both run on the same host.
 This configuration might have some occasional problems with HMR not fully reloaded so it's not my favourite.
 
 However, by generating the result of the frontend build in `src/main/resources/static` we both have a very simple
-way to distribute the full web application as well as a dev environment very similar to the production environment.
+way to distribute the full web application, as well as a dev environment that is very similar to the production environment.
 
 ## Proxy
 
@@ -106,7 +106,7 @@ app.listen(3000, 'localhost', (err) => {
 ```
 
 So going to `localhost:3000` we can see that the frontend is able to make web requests as if it is running on the
-same host and the backend.
+same host as the backend.
 
 ## Reverse-proxy
 
